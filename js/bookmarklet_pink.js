@@ -32,7 +32,7 @@ function initMyBookmarklet(){
 
         //YOUR CODE GOES HERE!
 
-        javascript:void(document.body.style.background=pink);
+        javascript:void(document.body.style.background="yellow");
 
     })();
 
