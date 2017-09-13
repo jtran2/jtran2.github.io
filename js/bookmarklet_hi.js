@@ -32,7 +32,8 @@ function initMyBookmarklet(){
 
         //YOUR CODE GOES HERE!
 
-        <a href="javascript:alert('Hi');">Click Me!</a>
+
+        javascript:(function(){alert('Hi');})();
 
     })();
 
