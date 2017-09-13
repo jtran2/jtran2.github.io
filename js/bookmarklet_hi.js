@@ -33,7 +33,7 @@ function initMyBookmarklet(){
         //YOUR CODE GOES HERE!
 
 
-        javascript:(function(){alert('Hi');})();
+        javascript:(function(){alert('heyyyyyyyyyyyyyyyy dudeeeeeeeeeee');})();
 
     })();
 
