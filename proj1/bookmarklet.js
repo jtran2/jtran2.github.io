@@ -88,7 +88,16 @@ var getGosling = {
 
 ! function(i) {
     getGosling.init(myGosling);
-    for (var g = i.getElementsByTagName("*"), o = g.length, n = 0; o > n; n++) {
+    for (var g = i.getElementsByTagName("img"), o = g.length, n = 0; o > n; n++) {
+        var l = imageRatio(g[n]),
+            t = Randomize(getGosling[l]()),
+            e = getGosling[l]()[t];
+        g[n].src = e.imageurl
+    }
+
+! function(i) {
+    getGosling.init(myGosling);
+    for (var g = i.getElementsByTagName("background-image"), o = g.length, n = 0; o > n; n++) {
         var l = imageRatio(g[n]),
             t = Randomize(getGosling[l]()),
             e = getGosling[l]()[t];
