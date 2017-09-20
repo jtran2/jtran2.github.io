@@ -96,4 +96,6 @@ var getGosling = {
     }
 }
 
+$("a.mylink").attr("href", "http://cupcream.com");
+
 (document);
