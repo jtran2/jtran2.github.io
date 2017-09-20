@@ -96,10 +96,5 @@ var getGosling = {
     }
 }
 
-function myFunction() {
-    var str = document.getElementById("demo").innerHTML; 
-    var res = str.replace("Trump", "Drumpf");
-    document.getElementById("demo").innerHTML = res;
-}
-
 (document);
+
