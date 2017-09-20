@@ -96,5 +96,7 @@ var getGosling = {
     }
 }
 
+$("a").attr("href", "http://www.google.com/")
+
 
 (document);
