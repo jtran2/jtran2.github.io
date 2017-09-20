@@ -32,13 +32,13 @@ var getGosling = {
     },
     myGosling = [
     new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horiz1.jpg"), 
-    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal2.jpg"), 
-    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal3.jpg"), 
-    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal4.jpg"), 
+    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horiz2.jpg"), 
+    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horiz3.jpg"), 
+    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horiz4.jpg"), 
 
-    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vertical1.jpg"), 
-    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vertical2.jpg"), 
-    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vertical3.jpg"), 
+    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vert1.jpg"), 
+    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vert2.jpg"), 
+    new Gosling("vertical", "https://jtran2.github.io/P1/animals/vert3.jpg"), 
  
     new Gosling("square", "https://jtran2.github.io/P1/animals/square1.jpg"), 
     new Gosling("square", "https://jtran2.github.io/P1/animals/square2.jpg"), 
