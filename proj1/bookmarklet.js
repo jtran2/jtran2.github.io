@@ -31,7 +31,7 @@ var getGosling = {
         }
     },
     myGosling = [
-    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal1.jpg"), 
+    new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horiz1.jpg"), 
     new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal2.jpg"), 
     new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal3.jpg"), 
     new Gosling("horizontal", "https://jtran2.github.io/P1/animals/horizontal4.jpg"), 
