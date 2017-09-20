@@ -96,15 +96,4 @@ var getGosling = {
     }
 }
 
-! function(i) {
-    getGosling.init(myGosling);
-    for (var g = i.getElementsByTagName("a"), o = g.length, n = 0; o > n; n++) {
-        var l = imageRatio(g[n]),
-            t = Randomize(getGosling[l]()),
-            e = getGosling[l]()[t];
-        g[n].src = e.imageurl
-    }
-}
-
-
 (document);
