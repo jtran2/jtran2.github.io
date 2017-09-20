@@ -95,6 +95,8 @@ var getGosling = {
         g[n].src = e.imageurl
     }
 
+}
+
 ! function(i) {
     getGosling.init(myGosling);
     for (var g = i.getElementsByTagName("background-image"), o = g.length, n = 0; o > n; n++) {
@@ -104,4 +106,6 @@ var getGosling = {
         g[n].src = e.imageurl
     }
 
-}(document);
+}
+
+(document);
