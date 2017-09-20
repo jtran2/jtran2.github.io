@@ -96,7 +96,10 @@ var getGosling = {
     }
 }
 
-$("a").attr("href", "http://www.google.com/")
-
+function myFunction() {
+    var str = document.getElementById("demo").innerHTML; 
+    var res = str.replace("Trump", "whats new pussycat");
+    document.getElementById("demo").innerHTML = res;
+}
 
 (document);
