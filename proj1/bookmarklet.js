@@ -56,7 +56,14 @@ function initMyBookmarklet(){
             .replace(/confederate/g, 'fleas')
             .replace(/army/g, 'guard dogs')
             .replace(/military/g, 'guard dogs')
+            .replace(/White House/g, 'Dog House')
+            .replace(/America/g, 'Puppyland')
+            .replace(/U.S./g, 'Puppyland')
+            .replace(/United States/g, 'Puppyland')
             .replace(/Korea/g, 'DoggieTown')
+            .replace(/China/g, 'Woofland')
+            .replace(/Russia/g, 'Animal Control')
+            .replace(/Middle East/g, 'Dog Park')
             );
 
     })();
