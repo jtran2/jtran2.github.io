@@ -32,7 +32,35 @@ function initMyBookmarklet(){
 
         //YOUR CODE GOES HERE!
 
-        javascript:void(document.body.innerHTML = document.body.innerHTML.replace(/Trump/g, 'Drumpf').replace(/Korea/g, 'Dogland'));
+        javascript:void(document.body.innerHTML = document.body.innerHTML
+            .replace(/Trump/g, 'Mr. Silly Pants')
+            .replace(/Clinton/g, 'Muffinbear')
+            .replace(/McConnell/g, 'Old Yeller')
+            .replace(/Obama/, 'Mr. Doodle Bug')
+            .replace(/McCain/g, 'Lassie')
+            .replace(/Pence/g, 'Fluffers')
+            .replace(/Putin/g, 'Spots')
+            .replace(/Mueller/g, 'Snuggles')
+            .replace(/Sessions/g, 'Mr. Pickles')
+            .replace(/president/g, 'Alpha Dog')
+            .replace(/senator/g, 'Puppy')
+            .replace(/senate/g, 'Toy Dog Committee')
+            .replace(/congress/g, 'Pawngress')
+            .replace(/house/g, '')
+            .replace(/republican/g, 'Tail Wagger')
+            .replace(/democrat/g, '')
+            .replace(/voter/g, '')
+            .replace(/UN/g, 'United Breeds')
+            .replace(/police/g, 'German Shepards')
+            .replace(/GOP/g, '')
+            .replace(/alt-right/g, 'wolves')
+            .replace(/confederate/g, 'fleas')
+            .replace(/dreamer/g, '')
+            .replace(/army/g, 'guard dogs')
+            .replace(/military/g, 'guard dogs')
+            .replace(/Korea/g, 'DoggieTown')
+            .replace(//g, '')
+            );
 
     })();
 
