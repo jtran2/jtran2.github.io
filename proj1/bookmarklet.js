@@ -59,7 +59,6 @@ function initMyBookmarklet(){
             .replace(/army/g, 'guard dogs')
             .replace(/military/g, 'guard dogs')
             .replace(/Korea/g, 'DoggieTown')
-            .replace(//g, '')
             );
 
     })();
