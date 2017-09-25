@@ -32,7 +32,7 @@ function initMyBookmarklet(){
 
         //YOUR CODE GOES HERE!
 
-        javascript:void(document.body.innerHTML = document.body.innerHTML.replace(/Trump/g, 'Drumpf').replace(/North Korea/g, 'North Dogland'));
+        javascript:void(document.body.innerHTML = document.body.innerHTML.replace(/Trump/g, 'Drumpf').replace(/Korea/g, 'Dogland'));
 
     })();
 
