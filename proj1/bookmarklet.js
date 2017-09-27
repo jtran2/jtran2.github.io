@@ -174,10 +174,14 @@ var getGosling = {
     new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz26.jpg"), 
     new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz27.jpg"), 
     new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz28.jpg"),
-    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz29.jpg"),  
+    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz29.jpg"),
+    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz30.jpg"),
+    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz31.jpg"),
+    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz32.jpg"), 
+    new Gosling("horizontal", "https://jtran2.github.io/proj1/animals/horiz33.jpg"), 
 
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert1.jpg"), 
-    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert2.jpeg"), 
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert2.jpg"), 
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert3.jpg"), 
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert4.jpg"),
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert5.jpg"),
@@ -191,6 +195,14 @@ var getGosling = {
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert13.jpg"),
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert14.jpg"),
     new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert15.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert16.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert17.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert18.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert19.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert20.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert21.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert22.jpg"),
+    new Gosling("vertical", "https://jtran2.github.io/proj1/animals/vert23.jpg"),
  
     new Gosling("square", "https://jtran2.github.io/proj1/animals/square1.jpg"), 
     new Gosling("square", "https://jtran2.github.io/proj1/animals/square2.jpg"), 
@@ -199,6 +211,7 @@ var getGosling = {
     new Gosling("square", "https://jtran2.github.io/proj1/animals/square5.jpg"), 
     new Gosling("square", "https://jtran2.github.io/proj1/animals/square6.jpg"), 
     new Gosling("square", "https://jtran2.github.io/proj1/animals/square7.jpg"), 
+    new Gosling("square", "https://jtran2.github.io/proj1/animals/square8.jpg"), 
 ];
 
 ! function(i) {
