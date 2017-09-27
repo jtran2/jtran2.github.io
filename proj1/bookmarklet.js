@@ -60,6 +60,7 @@ function initMyBookmarklet(){
             .replace(/military/gi, 'guard dogs')
             .replace(/White House/g, 'Dog House')
             .replace(/America/g, 'Puppyland')
+            .replace(/American/g, 'Puppylandian')
             .replace(/U.S./g, 'Puppyland')
             .replace(/US/g, 'Puppyland')
             .replace(/United States/g, 'Puppyland')
