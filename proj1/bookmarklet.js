@@ -85,7 +85,7 @@ function initMyBookmarklet(){
             .replace(/Obamacare/g, 'Doggiecare')
             .replace(/health care/gi, 'doggiecare')
             .replace(/economy/gi, 'biscuit jar')
-            .replace(/money/gi, 'kibble')
+            .replace(/money/gi, 'Kibble')
             .replace(/climate/gi, 'pooch')
             .replace(/Hurricane/gi, 'Good Boy')
             .replace(/Twitter/g, 'Barker')
