@@ -36,7 +36,7 @@ function initMyBookmarklet(){
             .replace(/Trump/g, 'Mr. Silly Pants')
             .replace(/Clinton/g, 'Muffinbear')
             .replace(/McConnell/g, 'Old Yeller')
-            .replace(/Obama/, 'Mr. Doodle Bug')
+            .replace(/Obama/g, 'Mr. Doodle Bug')
             .replace(/McCain/g, 'Lassie')
             .replace(/Pence/g, 'Fluffers')
             .replace(/Putin/g, 'Spots')
