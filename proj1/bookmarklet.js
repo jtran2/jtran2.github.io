@@ -46,7 +46,7 @@ function initMyBookmarklet(){
             .replace(/Kim Jong Un/g, 'Whiskers')
             .replace(/Sessions/g, 'Mr. Pickles')
             .replace(/President/gi, 'Alpha Dog')
-            .replace(/Senator/g, 'Puppy')
+            .replace(/Senator/gi, 'Puppy')
             .replace(/Senate/g, 'Toy Dog Committee')
             .replace(/Congress/g, 'Pawngress')
             .replace(/Republican/g, 'Tail Wagger')
