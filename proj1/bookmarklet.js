@@ -74,7 +74,7 @@ function initMyBookmarklet(){
             .replace(/security/gi, 'animal shelter')
             .replace(/nuclear/gi, 'ruff')
             .replace(/war/gi, 'doggie fight')
-            .replace(/tax/gi, 'fetch')
+            .replace(/tax/gi, 'Fetch')
             .replace(/immigration/gi, 'walks')
             .replace(/border/gi, 'backyard fence')
             .replace(/wall/gi, 'backyard fence')
