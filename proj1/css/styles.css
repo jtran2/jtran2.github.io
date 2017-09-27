@@ -29,12 +29,12 @@ p {
 }
 
 #button { 
-    background-color: rgba(174,1,126, .8);
+    background-color: #0000FF;
     border: none;
     font-family: 'Gotham Medium', sans-serif;
-    font-size: 2em;
+    font-size: 1em;
     padding: 10px;
-    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+    text-shadow: 2px 2px 3px rgba(255,255,255);
     -webkit-border-radius: 10px;
     border-radius: 10px;
     margin: auto;
