@@ -10,10 +10,60 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: normal;
+    color: white;
     line-height: 1.4;
     text-align: center;
 }
 
+h1 {
+  font-size: 6em;
+  font-style: black;
+  letter-spacing: .07em;
+  margin: 0;
+  padding: 12% 0 0 0;
+  text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+
+p {
+
+}
+
+#button { 
+    background-color: rgba(174,1,126, .8);
+    border: none;
+    font-family: 'Gotham Medium', sans-serif;
+    font-size: 2em;
+    padding: 10px;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    margin: auto;
+    width: 200px;
+}
+
+#button a {
+    color: #69043F;
+}
+
+a {
+    color: #7a0177;
+    text-decoration: none;
+}
+
 html, body {
     height: 100%;
+}
+
+textarea {
+    resize: vertical;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
 }
