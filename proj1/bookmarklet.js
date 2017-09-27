@@ -1,4 +1,4 @@
-console.log('Loaded background changing bookmarklet!!!');
+console.log('Dog Bless America bookmarklet!!!');
 
 
 javascript:(function(){
@@ -80,18 +80,29 @@ function initMyBookmarklet(){
             .replace(/wall/gi, 'backyard fence')
             .replace(/DACA/g, 'DOGGA')
             .replace(/protest/gi, 'pout')
-            .replace(/dead/gi, 'at the farm')
+            .replace(/dead/gi, 'play dead')
             .replace(/Obamacare/g, 'Doggiecare')
             .replace(/health care/gi, 'doggiecare')
             .replace(/economy/gi, 'biscuit jar')
-            .replace(/money/gi, 'doggie treats')
+            .replace(/money/gi, 'kibble')
             .replace(/climate/gi, 'pooch')
             .replace(/Hurricane/gi, 'Good Boy')
             .replace(/Twitter/g, 'Barker')
             .replace(/prison/gi, 'time out')
             .replace(/shooting/gi, 'petting')
             .replace(/terrorist/gi, 'terrier')
-
+            .replace(/dreamer/gi, 'chaser')
+            .replace(/world/gi, 'Kennel')
+            .replace(/politics/gi, 'Pawlitics')
+            .replace(/opinion/gi, 'Howl')
+            .replace(/entertainment/gi, 'Doggie Treats')
+            .replace(/tech/gi, 'Leash')
+            .replace(/travel/gi, 'Herding')
+            .replace(/sports/gi, 'Puppy Bowl')
+            .replace(/business/gi, 'Sniffing')
+            .replace(/lifestyle/gi, 'Bath Time')
+            .replace(/local/gi, 'Collar')
+            .replace(/science/gi, 'Hound')
             );
 
     })();
