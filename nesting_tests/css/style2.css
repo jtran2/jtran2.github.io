@@ -1,0 +1,11 @@
+.container {
+    
+}
+
+.frame {
+    position: absolute;
+    background-color: blue;
+    width: 95%px;
+    height: 95%px;
+
+}
