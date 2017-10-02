@@ -1,23 +1,9 @@
-#frame1 {
-    overflow: hidden;
-    position: absolute;
-    z-index: 1;
-}
-
-#frame1 iframe {
-	top:0;
-    left: 0;
-    position: absolute;
-}
-
-#frame2 {
-    overflow: hidden;
-    position: absolute;
-    z-index: 2;
-}
-
-#frame2 iframe {
-	top:0;
-    left: 0;
-    position: absolute;
+.frame {
+    background-color: blue;
+    width: 1000px;
+    height: 600px;
+    border: solid;
+    border-color: yellow;
+    border-width: 30px;
+    padding: 30px;
 }
