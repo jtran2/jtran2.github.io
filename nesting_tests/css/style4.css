@@ -3,7 +3,8 @@
     width: 90%;
     height: 90%;
     top: 0;
-    padding-top: 100px;
+    padding-left: 100px;
+    opacity: .9;
 }
 
 iframe {

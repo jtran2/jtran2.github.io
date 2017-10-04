@@ -4,6 +4,7 @@
     height: 90%;
     bottom: 0;
     padding-top: 100px;
+    filter: hue-rotate(90deg);
 }
 
 iframe {

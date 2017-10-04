@@ -1,9 +1,9 @@
 .container {
-    
+    width: 1400px;
 }
 
 .frame {
     position: absolute;
+    padding-left: 340px;
     top: 0;
-    padding: 250px;
 }
