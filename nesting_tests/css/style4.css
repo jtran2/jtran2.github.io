@@ -2,9 +2,10 @@
     position: absolute;
     width: 90%;
     height: 90%;
+    margin-top: 15px;
     top: 0;
     padding-left: 100px;
-    opacity: .9;
+    opacity: .85;
 }
 
 iframe {
