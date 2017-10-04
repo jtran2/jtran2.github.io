@@ -1,0 +1,17 @@
+.frame {
+    position: absolute;
+    width: 75%;
+    height: 75%;
+    margin-top: 100px;
+    margin-left: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
+
+iframe {
+	width: 70%;
+	height: 100%;
+}
