@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+
+.frame {
+    position: absolute;
+    width: 90%;
+    height: 90%;
+    margin-top: 100px;
+    margin-left: 100px;
+    top: 0;
+    left: 0;
+    opacity: .9;
+    transform: rotate(5deg);
+}
