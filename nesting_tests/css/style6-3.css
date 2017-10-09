@@ -13,6 +13,7 @@ body {
     bottom: 0;
     left: 0;
     right: 0;
+    filter: hue-rotation(50deg);
 }
 
 iframe {
