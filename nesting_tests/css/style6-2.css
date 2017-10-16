@@ -14,7 +14,8 @@ body {
 }
 
 .frame:hover {
-    opacity: .93;
+    opacity: .9;
+    margin-left: 2px;
 }
 
 iframe {
