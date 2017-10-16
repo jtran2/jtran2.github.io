@@ -11,7 +11,10 @@ body {
     top: 0;
     bottom: 0;
     filter: hue-rotate(45deg);
+}
 
+.frame:hover {
+    opacity: .93;
 }
 
 iframe {
