@@ -13,12 +13,12 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    filter: hue-rotate(45deg);
+    filter: hue-rotate(45deg) sepia(5%);
 }
 
 .frame:hover {
     opacity: .9;
-    margin-left: 1px;
+    margin-left: 0px;
 }
 
 iframe {
