@@ -11,7 +11,7 @@ body {
     margin-left: 30px;
     margin-right: 100px;
     top: 0;
-    left: -30px;
+    left: 0;
     bottom: 0;
     filter: hue-rotate(45deg);
 }
