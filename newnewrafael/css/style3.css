@@ -12,7 +12,7 @@ body {
     margin-right: 100px;
     top: 0;
     bottom: 0;
-    filter: hue-rotate(45deg);
+    filter: hue-rotate(45deg) saturate(110%);
 }
 
 .frame:hover {
