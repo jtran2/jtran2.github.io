@@ -1,7 +1,7 @@
 /*neogeocity*/
 
 body {
-    background: white;
+    background: pink;
 }
 
 .frame {
@@ -10,7 +10,8 @@ body {
     height: 100%;
     margin-top: 30px;
     margin-right: 100px;
-    top: 0;
+    top: -30px;
+    left: 0;
     bottom: 0;
     filter: hue-rotate(45deg) saturate(110%);
 }

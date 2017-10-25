@@ -11,13 +11,13 @@ body {
     margin-top: 15px;
     margin-right: 100px;
     top: 0;
+    left: 0;
     bottom: 0;
     filter: grayscale(100%);
 }
 
 .frame:hover {
-    opacity: .8;
-    margin-left: 0px;
+    filter: grayscale(100%) brightness(120%);
 }
 
 iframe {
