@@ -13,7 +13,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    filter: hue-rotate(45deg) sepia(5%);
+    filter: hue-rotate(45deg) sepia(7%);
 }
 
 .frame:hover {
